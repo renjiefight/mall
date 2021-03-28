@@ -1,0 +1,25 @@
+spring:
+  application:
+    name: mall-admin
+  profiles:
+    active: dev # 默认开发环境
+  servlet:
+    multipart:
+      enabled: true
+      max-file-size: 10MB
+
+## mybatis配置
+mybatis:
+  mapper-locations:
+    - classpath:dao/*.xml
+    - classpath*:com/**/mapper/*.xml
+
+## redis配置
+redis:
+  database: mall
+  key:
+    admin: 'ums:admin'
+    resourceList: 'ums:resourceList'
+  expire:
+    common: 86400 # 24小时
+
