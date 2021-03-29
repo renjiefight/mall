@@ -1,8 +1,5 @@
 package com.renjie.mall.service;
 
-//import com.platform.dao.ApiCouponMapper;
-//import com.platform.entity.CouponVo;
-
 import com.renjie.mall.dao.ApiCouponMapper;
 import com.renjie.mall.entity.CouponVo;
 import org.springframework.beans.factory.annotation.Autowired;

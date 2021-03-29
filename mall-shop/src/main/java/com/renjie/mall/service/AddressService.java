@@ -1,7 +1,5 @@
 package com.renjie.mall.service;
 
-////import com.platform.entity.AddressEntity;
-
 import com.renjie.mall.entity.AddressEntity;
 
 import java.util.List;

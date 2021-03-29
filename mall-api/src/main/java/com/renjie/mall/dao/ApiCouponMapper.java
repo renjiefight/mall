@@ -1,7 +1,5 @@
 package com.renjie.mall.dao;
 
-//import com.platform.entity.CouponVo;
-
 import com.renjie.mall.entity.CouponVo;
 
 import java.util.List;

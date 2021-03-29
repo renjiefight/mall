@@ -1,13 +1,5 @@
 package com.renjie.mall.controller;
 
-//import com.platform.entity.SysRoleEntity;
-//import com.platform.utils.Constant;
-//import com.platform.utils.PageUtils;
-//import com.platform.utils.Query;
-//import com.platform.utils.R;
-//import com.platform.validator.ValidatorUtils;
-//import com.platform.annotation.SysLog;
-
 import com.renjie.mall.annotation.SysLog;
 import com.renjie.mall.entity.SysRoleEntity;
 import com.renjie.mall.service.SysRoleDeptService;

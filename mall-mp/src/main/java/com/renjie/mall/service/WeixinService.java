@@ -1,8 +1,5 @@
 package com.renjie.mall.service;
 
-//import com.platform.handler.*;
-//import com.platform.utils.ResourceUtil;
-
 import com.renjie.mall.handler.*;
 import com.renjie.mall.utils.ResourceUtil;
 import me.chanjar.weixin.common.api.WxConsts;

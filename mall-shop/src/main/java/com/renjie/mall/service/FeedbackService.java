@@ -1,7 +1,5 @@
 package com.renjie.mall.service;
 
-//import com.platform.entity.FeedbackEntity;
-
 import com.renjie.mall.entity.FeedbackEntity;
 
 import java.util.List;

@@ -1,7 +1,5 @@
 package com.renjie.mall.oss;
 
-//import com.platform.utils.RRException;
-
 import com.renjie.mall.utils.RRException;
 import org.apache.commons.io.IOUtils;
 import org.springframework.web.multipart.MultipartFile;

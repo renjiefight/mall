@@ -1,7 +1,5 @@
 package com.renjie.mall.service;
 
-////import com.platform.entity.UserCouponEntity;
-
 import com.renjie.mall.entity.UserCouponEntity;
 
 import java.util.List;

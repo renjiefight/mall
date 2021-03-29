@@ -1,7 +1,5 @@
 package com.renjie.mall.dao;
 
-//import com.platform.entity.SysConfigEntity;
-
 import com.renjie.mall.entity.SysConfigEntity;
 import org.apache.ibatis.annotations.Param;
 

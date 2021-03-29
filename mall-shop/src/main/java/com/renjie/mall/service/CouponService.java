@@ -1,8 +1,5 @@
 package com.renjie.mall.service;
 
-//import com.platform.entity.CouponEntity;
-//import com.platform.utils.R;
-
 import com.renjie.mall.utils.R;
 import com.renjie.mall.entity.CouponEntity;
 

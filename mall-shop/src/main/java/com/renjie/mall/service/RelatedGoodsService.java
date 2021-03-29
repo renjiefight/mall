@@ -1,7 +1,5 @@
 package com.renjie.mall.service;
 
-//import com.platform.entity.RelatedGoodsEntity;
-
 import com.renjie.mall.entity.RelatedGoodsEntity;
 
 import java.util.List;

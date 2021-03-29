@@ -1,7 +1,6 @@
 package com.renjie.mall.utils;
 
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-//import com.platform.xss.SQLFilter;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

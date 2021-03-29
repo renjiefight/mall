@@ -1,9 +1,5 @@
 package com.renjie.mall.service.impl;
 
-//import com.platform.dao.TopicDao;
-
-//import com.platform.entity.TopicEntity;
-
 import com.renjie.mall.dao.TopicDao;
 import com.renjie.mall.entity.TopicEntity;
 import com.renjie.mall.service.TopicService;

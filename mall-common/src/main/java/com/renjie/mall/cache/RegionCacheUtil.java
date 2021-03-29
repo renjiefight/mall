@@ -1,9 +1,5 @@
 package com.renjie.mall.cache;
 
-////import com.platform.dao.SysRegionDao;
-////import com.platform.entity.SysRegionEntity;
-//import com.platform.utils.SpringContextUtils;
-
 import com.renjie.mall.dao.SysRegionDao;
 import com.renjie.mall.entity.SysRegionEntity;
 import com.renjie.mall.utils.SpringContextUtils;

@@ -1,7 +1,5 @@
 package com.renjie.mall.service;
 
-//import com.platform.entity.AttributeCategoryEntity;
-
 import com.renjie.mall.entity.AttributeCategoryEntity;
 
 import java.util.List;

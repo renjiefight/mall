@@ -1,11 +1,5 @@
 package com.renjie.mall.controller;
 
-////import com.platform.entity.ChannelEntity;
-////mport com.platform.service.ChannelService;
-//import com.platform.utils.PageUtils;
-//import com.platform.utils.Query;
-//import com.platform.utils.R;
-
 import com.renjie.mall.utils.Query;
 import com.renjie.mall.utils.R;
 

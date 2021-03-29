@@ -1,7 +1,5 @@
 package com.renjie.mall.dao;
 
-//import com.platform.entity.GoodsVo;
-
 import com.renjie.mall.entity.GoodsVo;
 
 import java.util.List;

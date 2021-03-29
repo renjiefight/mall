@@ -1,11 +1,5 @@
 package com.renjie.mall.controller;
 
-//import com.platform.entity.AdEntity;
-//import com.platform.service.AdService;
-//import com.platform.utils.PageUtils;
-//import com.platform.utils.Query;
-//import com.platform.utils.R;
-
 import com.renjie.mall.entity.AdEntity;
 import com.renjie.mall.service.AdService;
 import com.renjie.mall.utils.PageUtils;

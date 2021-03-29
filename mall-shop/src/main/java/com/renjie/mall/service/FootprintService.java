@@ -1,7 +1,5 @@
 package com.renjie.mall.service;
 
-//import com.platform.entity.FootprintEntity;
-
 import com.renjie.mall.entity.FootprintEntity;
 
 import java.util.List;

@@ -1,7 +1,5 @@
 package com.renjie.mall.service;
 
-//import com.platform.entity.ChannelEntity;
-
 import com.renjie.mall.entity.ChannelEntity;
 
 import java.util.List;

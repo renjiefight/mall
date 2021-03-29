@@ -1,7 +1,5 @@
 package com.renjie.mall.dao;
 
-//import com.platform.entity.UserLevelEntity;
-
 import com.renjie.mall.entity.UserLevelEntity;
 
 /**

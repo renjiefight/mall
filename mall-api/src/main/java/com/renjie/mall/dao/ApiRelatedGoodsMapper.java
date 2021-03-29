@@ -1,7 +1,5 @@
 package com.renjie.mall.dao;
 
-//import com.platform.entity.RelatedGoodsVo;
-
 import com.renjie.mall.entity.RelatedGoodsVo;
 
 /**

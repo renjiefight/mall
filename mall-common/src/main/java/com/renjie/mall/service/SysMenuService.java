@@ -1,7 +1,5 @@
 package com.renjie.mall.service;
 
-//import com.platform.entity.SysMenuEntity;
-
 import com.renjie.mall.entity.SysMenuEntity;
 
 import java.util.List;

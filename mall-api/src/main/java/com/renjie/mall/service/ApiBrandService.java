@@ -1,8 +1,5 @@
 package com.renjie.mall.service;
 
-//import com.platform.dao.ApiBrandMapper;
-////import com.platform.entity.BrandVo;
-
 import com.renjie.mall.dao.ApiBrandMapper;
 import com.renjie.mall.entity.BrandVo;
 import org.springframework.beans.factory.annotation.Autowired;

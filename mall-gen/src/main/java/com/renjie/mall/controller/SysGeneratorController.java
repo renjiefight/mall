@@ -1,13 +1,5 @@
 package com.renjie.mall.controller;
 
-//import com.alibaba.fastjson.JSON;
-//import com.platform.service.SysGeneratorService;
-//import com.platform.utils.DateUtils;
-//import com.platform.utils.PageUtils;
-//import com.platform.utils.Query;
-//import com.platform.utils.R;
-//import com.platform.xss.XssHttpServletRequestWrapper;
-
 import com.alibaba.fastjson.JSON;
 import com.renjie.mall.service.SysGeneratorService;
 import com.renjie.mall.utils.DateUtils;

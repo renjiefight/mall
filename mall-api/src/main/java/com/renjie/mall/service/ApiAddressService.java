@@ -1,8 +1,5 @@
 package com.renjie.mall.service;
 
-//import com.platform.dao.ApiAddressMapper;
-//import com.platform.entity.AddressVo;
-
 import com.renjie.mall.dao.ApiAddressMapper;
 import com.renjie.mall.entity.AddressVo;
 import org.springframework.beans.factory.annotation.Autowired;

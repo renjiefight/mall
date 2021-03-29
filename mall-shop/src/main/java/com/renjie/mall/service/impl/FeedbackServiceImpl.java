@@ -9,10 +9,6 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Map;
 
-//import com.platform.dao.FeedbackDao;
-//import com.platform.entity.FeedbackEntity;
-//mport com.platform.service.FeedbackService;
-
 /**
  * Service实现类
  *

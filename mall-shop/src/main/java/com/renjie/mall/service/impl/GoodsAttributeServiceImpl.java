@@ -9,11 +9,6 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Map;
 
-//import com.platform.dao.GoodsAttributeDao;
-//import com.platform.entity.GoodsAttributeEntity;
-//mport com.platform.service.GoodsAttributeService;
-
-
 @Service("goodsAttributeService")
 public class GoodsAttributeServiceImpl implements GoodsAttributeService {
 	@Autowired

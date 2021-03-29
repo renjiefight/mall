@@ -1,8 +1,5 @@
 package com.renjie.mall.cache;
 
-//import com.platform.utils.Constant;
-//import com.platform.utils.StringUtils;
-
 import com.renjie.mall.utils.Constant;
 import com.renjie.mall.utils.StringUtilTools;
 import net.oschina.j2cache.CacheChannel;

@@ -1,7 +1,5 @@
 package com.renjie.mall.oss;
 
-//import com.platform.utils.DateUtils;
-
 import com.renjie.mall.utils.DateUtils;
 import org.apache.commons.lang.StringUtils;
 import org.springframework.web.multipart.MultipartFile;

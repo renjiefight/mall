@@ -1,8 +1,5 @@
 package com.renjie.mall.dao;
 
-
-//import com.platform.entity.ResultMap;
-
 import com.renjie.mall.entity.ResultMap;
 
 import java.util.List;

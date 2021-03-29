@@ -1,9 +1,5 @@
 package com.renjie.mall.service.impl;
 
-//import com.platform.dao.UserDao;
-//////import com.platform.entity.UserEntity;;
-//mport com.platform.service.UserService;
-
 import com.renjie.mall.dao.UserDao;
 import com.renjie.mall.entity.UserEntity;
 import com.renjie.mall.service.UserService;

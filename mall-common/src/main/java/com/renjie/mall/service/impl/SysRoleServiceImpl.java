@@ -1,12 +1,5 @@
 package com.renjie.mall.service.impl;
 
-//import com.platform.dao.SysRoleDao;
-
-//import com.platform.entity.SysRoleEntity;
-//import com.platform.entity.UserWindowDto;
-//import com.platform.page.Page;
-//import com.platform.page.PageHelper;
-
 import com.renjie.mall.dao.SysRoleDao;
 import com.renjie.mall.entity.SysRoleEntity;
 import com.renjie.mall.entity.UserWindowDto;

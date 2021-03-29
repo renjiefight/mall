@@ -1,7 +1,5 @@
 package com.renjie.mall.dao;
 
-//import com.platform.entity.SysSmsLogEntity;
-
 import com.renjie.mall.entity.SysSmsLogEntity;
 
 /**

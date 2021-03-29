@@ -1,7 +1,5 @@
 package com.renjie.mall.api;
 
-//import com.platform.annotation.IgnoreAuth;
-
 import com.renjie.mall.annotation.IgnoreAuth;
 import com.renjie.mall.entity.BrandVo;
 import com.renjie.mall.service.ApiBrandService;

@@ -1,12 +1,5 @@
 package com.renjie.mall.service.impl;
 
-//import com.platform.dao.SysDeptDao;
-//import com.platform.entity.SysDeptEntity;
-//import com.platform.entity.UserWindowDto;
-
-//import com.platform.page.Page;
-//import com.platform.page.PageHelper;
-
 import com.qiniu.util.StringUtils;
 import com.renjie.mall.dao.SysDeptDao;
 import com.renjie.mall.entity.SysDeptEntity;

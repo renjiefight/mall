@@ -1,7 +1,5 @@
 package com.renjie.mall.dao;
 
-//import com.platform.entity.FootprintVo;
-
 import com.renjie.mall.entity.FootprintVo;
 
 import java.util.List;

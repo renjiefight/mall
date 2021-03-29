@@ -1,12 +1,5 @@
 package com.renjie.mall.service.impl;
 
-//import com.platform.dao.SysMenuDao;
-//import com.platform.entity.SysMenuEntity;
-//mport com.platform.service.SysMenuService;
-//mport com.platform.service.SysRoleMenuService;
-//mport com.platform.service.SysUserService;
-//import com.platform.utils.Constant.MenuType;
-
 import com.renjie.mall.dao.SysMenuDao;
 import com.renjie.mall.entity.SysMenuEntity;
 import com.renjie.mall.service.SysMenuService;

@@ -1,9 +1,5 @@
 package com.renjie.mall.service;
 
-////import com.platform.entity.SysSmsLogEntity;
-//
-//import java.util.List;
-
 import com.renjie.mall.entity.SysSmsLogEntity;
 
 import java.util.List;

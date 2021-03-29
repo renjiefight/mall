@@ -1,8 +1,5 @@
 package com.renjie.mall.service;
 
-//import com.platform.dao.ApiCartMapper;
-//import com.platform.entity.CartVo;
-
 import com.renjie.mall.dao.ApiCartMapper;
 import com.renjie.mall.entity.CartVo;
 import org.springframework.beans.factory.annotation.Autowired;

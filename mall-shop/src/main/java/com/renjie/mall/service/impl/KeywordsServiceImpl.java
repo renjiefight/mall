@@ -9,10 +9,6 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Map;
 
-//import com.platform.dao.KeywordsDao;
-//import com.platform.entity.KeywordsEntity;
-//import com.platform.service.KeywordsService;
-
 /**
  * 热闹关键词表Service实现类
  *

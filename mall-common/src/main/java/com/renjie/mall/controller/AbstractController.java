@@ -1,8 +1,5 @@
 package com.renjie.mall.controller;
 
-//import com.platform.entity.SysUserEntity;
-//import com.platform.utils.ShiroUtils;
-
 import com.renjie.mall.entity.SysUserEntity;
 import com.renjie.mall.utils.ShiroUtils;
 import org.slf4j.Logger;

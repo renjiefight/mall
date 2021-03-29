@@ -1,9 +1,5 @@
 package com.renjie.mall.service;
 
-//import com.platform.entity.SysUserEntity;
-//import com.platform.entity.UserWindowDto;
-//import com.platform.page.Page;
-
 import com.renjie.mall.entity.SysUserEntity;
 import com.renjie.mall.entity.UserWindowDto;
 import com.renjie.mall.page.Page;

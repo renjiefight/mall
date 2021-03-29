@@ -1,8 +1,5 @@
 package com.renjie.mall.service;
 
-//import com.platform.dao.ApiCommentPictureMapper;
-//import com.platform.entity.CommentPictureVo;
-
 import com.renjie.mall.dao.ApiCommentPictureMapper;
 import com.renjie.mall.entity.CommentPictureVo;
 import org.springframework.beans.factory.annotation.Autowired;

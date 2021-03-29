@@ -1,8 +1,5 @@
 package com.renjie.mall.annotation;
 
-
-//import com.platform.utils.Constant;
-
 import com.renjie.mall.utils.Constant;
 
 import java.lang.annotation.*;

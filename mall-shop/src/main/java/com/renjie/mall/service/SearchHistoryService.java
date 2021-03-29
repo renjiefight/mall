@@ -1,7 +1,5 @@
 package com.renjie.mall.service;
 
-//import com.platform.entity.SearchHistoryEntity;
-
 import com.renjie.mall.entity.SearchHistoryEntity;
 
 import java.util.List;

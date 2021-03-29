@@ -1,9 +1,5 @@
 package com.renjie.mall.service;
 
-//import com.platform.dao.ApiGoodsMapper;
-
-//import com.platform.entity.GoodsVo;
-
 import com.renjie.mall.dao.ApiGoodsMapper;
 import com.renjie.mall.entity.GoodsVo;
 import org.springframework.beans.factory.annotation.Autowired;

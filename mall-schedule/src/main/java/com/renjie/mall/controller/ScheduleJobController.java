@@ -1,8 +1,5 @@
 package com.renjie.mall.controller;
 
-//import com.platform.annotation.SysLog;
-//import com.platform.entity.ScheduleJobEntity;
-
 import com.renjie.mall.annotation.SysLog;
 import com.renjie.mall.entity.ScheduleJobEntity;
 import com.renjie.mall.service.ScheduleJobService;

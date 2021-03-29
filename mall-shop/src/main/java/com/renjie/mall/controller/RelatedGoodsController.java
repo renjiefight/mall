@@ -1,10 +1,5 @@
 package com.renjie.mall.controller;
 
-//import com.platform.entity.RelatedGoodsEntity;
-//import com.platform.utils.PageUtils;
-//import com.platform.utils.Query;
-//import com.platform.utils.R;
-
 import com.renjie.mall.utils.R;
 import com.renjie.mall.utils.Query;
 import com.renjie.mall.entity.RelatedGoodsEntity;

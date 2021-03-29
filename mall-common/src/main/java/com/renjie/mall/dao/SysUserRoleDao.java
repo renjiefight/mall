@@ -1,7 +1,5 @@
 package com.renjie.mall.dao;
 
-//import com.platform.entity.SysUserRoleEntity;
-
 import com.renjie.mall.entity.SysUserRoleEntity;
 
 import java.util.List;

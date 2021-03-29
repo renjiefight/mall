@@ -1,7 +1,5 @@
 package com.renjie.mall.dao;
 
-//import com.platform.entity.FeedbackVo;
-
 import com.renjie.mall.entity.FeedbackVo;
 
 /**

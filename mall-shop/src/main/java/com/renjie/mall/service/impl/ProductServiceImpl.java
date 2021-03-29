@@ -1,11 +1,5 @@
 package com.renjie.mall.service.impl;
 
-//import com.platform.dao.GoodsSpecificationDao;
-//import com.platform.entity.GoodsSpecificationEntity;
-
-//import com.platform.utils.BeanUtils;
-//import com.platform.utils.StringUtils;
-
 import com.renjie.mall.dao.GoodsSpecificationDao;
 import com.renjie.mall.dao.ProductDao;
 import com.renjie.mall.entity.GoodsSpecificationEntity;

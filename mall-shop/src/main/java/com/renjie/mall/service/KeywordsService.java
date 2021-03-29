@@ -1,7 +1,5 @@
 package com.renjie.mall.service;
 
-//import com.platform.entity.KeywordsEntity;
-
 import com.renjie.mall.entity.KeywordsEntity;
 
 import java.util.List;

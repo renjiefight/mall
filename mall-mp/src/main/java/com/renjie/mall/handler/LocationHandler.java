@@ -1,7 +1,5 @@
 package com.renjie.mall.handler;
 
-//import com.platform.builder.TextBuilder;
-
 import com.renjie.mall.builder.TextBuilder;
 import me.chanjar.weixin.common.api.WxConsts;
 import me.chanjar.weixin.common.session.WxSessionManager;

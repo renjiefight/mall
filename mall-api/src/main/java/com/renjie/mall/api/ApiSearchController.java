@@ -1,16 +1,5 @@
 package com.renjie.mall.api;
 
-//import com.platform.annotation.IgnoreAuth;
-//import com.platform.annotation.LoginUser;
-////import com.platform.entity.KeywordsVo;
-////import com.platform.entity.SearchHistoryVo;
-////import com.platform.entity.UserVo;
-//mport com.platform.service.ApiKeywordsService;
-//mport com.platform.service.ApiSearchHistoryService;
-
-//import com.platform.util.ApiBaseAction;
-//import com.platform.utils.Query;
-
 import com.renjie.mall.annotation.IgnoreAuth;
 import com.renjie.mall.annotation.LoginUser;
 import com.renjie.mall.entity.KeywordsVo;

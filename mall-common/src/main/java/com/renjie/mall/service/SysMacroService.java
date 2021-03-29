@@ -1,9 +1,5 @@
 package com.renjie.mall.service;
 
-//import com.platform.entity.SysMacroEntity;
-//
-//import java.util.List;
-
 import com.renjie.mall.entity.SysMacroEntity;
 
 import java.util.List;

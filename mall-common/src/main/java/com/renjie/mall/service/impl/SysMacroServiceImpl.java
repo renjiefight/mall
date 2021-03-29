@@ -1,8 +1,5 @@
 package com.renjie.mall.service.impl;
 
-//import com.platform.annotation.RedisCache;
-//import com.platform.cache.J2CacheUtils;
-
 import com.renjie.mall.annotation.RedisCache;
 import com.renjie.mall.cache.J2CacheUtils;
 import com.renjie.mall.dao.SysMacroDao;

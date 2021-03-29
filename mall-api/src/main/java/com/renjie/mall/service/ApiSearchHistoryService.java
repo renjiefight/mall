@@ -1,8 +1,5 @@
 package com.renjie.mall.service;
 
-//import com.platform.dao.ApiSearchHistoryMapper;
-//import com.platform.entity.SearchHistoryVo;
-
 import com.renjie.mall.dao.ApiSearchHistoryMapper;
 import com.renjie.mall.entity.SearchHistoryVo;
 import org.springframework.beans.factory.annotation.Autowired;

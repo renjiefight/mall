@@ -1,10 +1,5 @@
 package com.renjie.mall.entity;
 
-//import com.platform.validator.group.AddGroup;
-//import com.platform.validator.group.UpdateGroup;
-//import org.hibernate.validator.constraints.Email;
-//import org.hibernate.validator.constraints.NotBlank;
-
 import com.renjie.mall.validator.group.AddGroup;
 import com.renjie.mall.validator.group.UpdateGroup;
 

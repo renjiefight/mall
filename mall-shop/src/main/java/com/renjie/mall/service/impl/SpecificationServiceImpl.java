@@ -9,11 +9,6 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Map;
 
-//import com.platform.dao.SpecificationDao;
-//import com.platform.entity.SpecificationEntity;
-//mport com.platform.service.SpecificationService;
-
-
 @Service("specificationService")
 public class SpecificationServiceImpl implements SpecificationService {
 	@Autowired

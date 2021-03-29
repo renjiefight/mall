@@ -1,9 +1,5 @@
 package com.renjie.mall.oss;
 
-//mport com.platform.service.SysConfigService;
-//import com.platform.utils.Constant;
-//import com.platform.utils.SpringContextUtils;
-
 import com.renjie.mall.service.SysConfigService;
 import com.renjie.mall.utils.Constant;
 import com.renjie.mall.utils.SpringContextUtils;

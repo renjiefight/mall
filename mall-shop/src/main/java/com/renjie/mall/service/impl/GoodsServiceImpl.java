@@ -1,10 +1,5 @@
 package com.renjie.mall.service.impl;
 
-//import com.platform.annotation.DataFilter;
-//import com.platform.service.GoodsService;
-//import com.platform.utils.RRException;
-//import com.platform.utils.ShiroUtils;
-
 import com.renjie.mall.annotation.DataFilter;
 import com.renjie.mall.dao.GoodsAttributeDao;
 import com.renjie.mall.dao.GoodsDao;

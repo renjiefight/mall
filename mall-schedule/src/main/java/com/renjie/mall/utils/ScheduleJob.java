@@ -1,9 +1,5 @@
 package com.renjie.mall.utils;
 
-//import com.platform.entity.ScheduleJobEntity;
-//import com.platform.entity.ScheduleJobLogEntity;
-//mport com.platform.service.ScheduleJobLogService;
-
 import com.renjie.mall.entity.ScheduleJobEntity;
 import com.renjie.mall.entity.ScheduleJobLogEntity;
 import com.renjie.mall.service.ScheduleJobLogService;

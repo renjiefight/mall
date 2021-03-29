@@ -1,7 +1,5 @@
 package com.renjie.mall.dao;
 
-//import com.platform.entity.UserCouponVo;
-
 import com.renjie.mall.entity.UserCouponVo;
 import org.apache.ibatis.annotations.Param;
 

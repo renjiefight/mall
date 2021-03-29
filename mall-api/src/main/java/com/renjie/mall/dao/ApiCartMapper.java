@@ -1,7 +1,5 @@
 package com.renjie.mall.dao;
 
-////import com.platform.entity.CartVo;
-
 import com.renjie.mall.entity.CartVo;
 import org.apache.ibatis.annotations.Param;
 

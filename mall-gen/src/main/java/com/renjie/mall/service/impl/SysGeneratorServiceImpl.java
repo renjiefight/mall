@@ -1,13 +1,5 @@
 package com.renjie.mall.service.impl;
 
-//import com.platform.dao.SysGeneratorDao;
-//import com.platform.dao.SysOracleGeneratorDao;
-//import com.platform.entity.ResultMap;
-//import com.platform.service.SysGeneratorService;
-//import com.platform.utils.Constant;
-//import com.platform.utils.GenUtils;
-//import com.platform.utils.StringUtils;
-
 import com.renjie.mall.dao.SysGeneratorDao;
 import com.renjie.mall.dao.SysOracleGeneratorDao;
 import com.renjie.mall.entity.ResultMap;

@@ -1,7 +1,5 @@
 package com.renjie.mall.dao;
 
-//import com.platform.entity.TokenEntity;
-
 import com.renjie.mall.entity.TokenEntity;
 import org.apache.ibatis.annotations.Param;
 

@@ -9,11 +9,6 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Map;
 
-//import com.platform.dao.OrderGoodsDao;
-//import com.platform.entity.OrderGoodsEntity;
-//mport com.platform.service.OrderGoodsService;
-
-
 @Service("orderGoodsService")
 public class OrderGoodsServiceImpl implements OrderGoodsService {
 	@Autowired

@@ -1,8 +1,5 @@
 package com.renjie.mall.api;
 
-//import com.platform.annotation.IgnoreAuth;
-//import com.platform.util.ApiBaseAction;
-
 import com.renjie.mall.annotation.IgnoreAuth;
 import com.renjie.mall.entity.CategoryVo;
 import com.renjie.mall.service.ApiCategoryService;

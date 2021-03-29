@@ -1,6 +1,5 @@
 package com.renjie.mall.dao;
 
-//import com.platform.entity.AdPositionEntity;
 
 import com.renjie.mall.entity.AdPositionEntity;
 

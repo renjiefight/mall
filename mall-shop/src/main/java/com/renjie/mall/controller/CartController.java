@@ -3,20 +3,14 @@ package com.renjie.mall.controller;
 import com.renjie.mall.entity.CartEntity;
 import com.renjie.mall.service.CartService;
 import com.renjie.mall.utils.PageUtils;
+import com.renjie.mall.utils.Query;
+import com.renjie.mall.utils.R;
 import org.apache.shiro.authz.annotation.RequiresPermissions;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 import java.util.Map;
-
-////import com.platform.entity.CartEntity;
-////mport com.platform.service.CartService;
-//import com.platform.utils.PageUtils;
-//import com.platform.utils.Query;
-//import com.platform.utils.R;
-import com.renjie.mall.utils.Query;
-import com.renjie.mall.utils.R;
 
 
 /**

@@ -1,7 +1,5 @@
 package com.renjie.mall.dao;
 
-//import com.platform.entity.HelpIssueEntity;
-
 import com.renjie.mall.entity.HelpIssueEntity;
 
 /**

@@ -1,8 +1,5 @@
 package com.renjie.mall.utils;
 
-//import com.platform.entity.ColumnEntity;
-//import com.platform.entity.TableEntity;
-
 import com.renjie.mall.entity.ColumnEntity;
 import com.renjie.mall.entity.TableEntity;
 import org.apache.commons.configuration.Configuration;

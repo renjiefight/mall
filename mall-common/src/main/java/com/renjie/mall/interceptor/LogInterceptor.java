@@ -1,9 +1,5 @@
 package com.renjie.mall.interceptor;
 
-//import com.platform.entity.SysUserEntity;
-//import com.platform.utils.Constant;
-//import com.platform.utils.RequestUtil;
-
 import com.renjie.mall.entity.SysUserEntity;
 import com.renjie.mall.utils.Constant;
 import com.renjie.mall.utils.RequestUtil;

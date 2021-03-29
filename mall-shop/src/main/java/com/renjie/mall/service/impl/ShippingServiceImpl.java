@@ -1,9 +1,5 @@
 package com.renjie.mall.service.impl;
 
-//import com.platform.dao.ShippingDao;
-//import com.platform.entity.ShippingEntity;
-//mport com.platform.service.ShippingService;
-
 import com.renjie.mall.dao.ShippingDao;
 import com.renjie.mall.entity.ShippingEntity;
 import com.renjie.mall.service.ShippingService;

@@ -1,10 +1,6 @@
 package com.renjie.mall.service;
 
 
-//import com.platform.entity.SysRegionEntity;
-//
-//import java.util.List;
-
 import com.renjie.mall.entity.SysRegionEntity;
 
 import java.util.List;

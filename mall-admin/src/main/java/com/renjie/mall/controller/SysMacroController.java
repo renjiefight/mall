@@ -1,12 +1,5 @@
 package com.renjie.mall.controller;
 
-//import com.platform.annotation.SysLog;
-//import com.platform.entity.SysMacroEntity;
-////mport com.platform.service.SysMacroService;
-//import com.platform.utils.PageUtils;
-//import com.platform.utils.Query;
-//import com.platform.utils.R;
-
 import com.renjie.mall.utils.Query;
 import com.renjie.mall.annotation.SysLog;
 import com.renjie.mall.entity.SysMacroEntity;

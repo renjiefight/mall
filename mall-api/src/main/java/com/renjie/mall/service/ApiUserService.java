@@ -1,13 +1,5 @@
 package com.renjie.mall.service;
 
-//import com.platform.dao.ApiUserLevelMapper;
-//import com.platform.dao.ApiUserMapper;
-////import com.platform.entity.SmsLogVo;
-////import com.platform.entity.UserLevelVo;
-////import com.platform.entity.UserVo;
-//import com.platform.utils.RRException;
-//import com.platform.validator.Assert;
-
 import com.renjie.mall.dao.ApiUserLevelMapper;
 import com.renjie.mall.dao.ApiUserMapper;
 import com.renjie.mall.entity.SmsLogVo;

@@ -1,7 +1,5 @@
 package com.renjie.mall.dao;
 
-//import com.platform.entity.OrderVo;
-
 import com.renjie.mall.entity.OrderVo;
 import org.apache.ibatis.annotations.Param;
 

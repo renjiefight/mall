@@ -1,8 +1,5 @@
 package com.renjie.mall.dao;
 
-//import com.platform.entity.SmsLogVo;
-//import com.platform.entity.UserVo;
-
 import com.renjie.mall.entity.SmsLogVo;
 import com.renjie.mall.entity.UserVo;
 import org.apache.ibatis.annotations.Param;

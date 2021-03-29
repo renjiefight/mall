@@ -1,9 +1,5 @@
 package com.renjie.mall.service.impl;
 
-//import com.platform.dao.UserCouponDao;
-//import com.platform.entity.UserCouponEntity;
-//mport com.platform.service.UserCouponService;
-
 import com.renjie.mall.dao.UserCouponDao;
 import com.renjie.mall.entity.UserCouponEntity;
 import com.renjie.mall.service.UserCouponService;

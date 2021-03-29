@@ -1,14 +1,5 @@
 package com.renjie.mall.controller;
 
-//import com.platform.annotation.SysLog;
-//import com.platform.cache.RegionCacheUtil;
-//import com.platform.entity.SysRegionEntity;
-////mport com.platform.service.SysRegionService;
-//import com.platform.utils.PageUtils;
-//import com.platform.utils.Query;
-//import com.platform.utils.R;
-//import com.platform.utils.TreeUtils;
-
 import com.renjie.mall.utils.Query;
 import com.renjie.mall.annotation.SysLog;
 import com.renjie.mall.cache.RegionCacheUtil;

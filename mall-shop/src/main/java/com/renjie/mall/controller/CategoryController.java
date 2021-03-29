@@ -1,11 +1,5 @@
 package com.renjie.mall.controller;
 
-////import com.platform.entity.CategoryEntity;
-////mport com.platform.service.CategoryService;
-//import com.platform.utils.PageUtils;
-//import com.platform.utils.Query;
-//import com.platform.utils.R;
-//import com.platform.utils.TreeUtils;
 import com.renjie.mall.utils.Query;
 import com.renjie.mall.utils.R;
 import com.renjie.mall.entity.CategoryEntity;

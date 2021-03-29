@@ -1,11 +1,5 @@
 package com.renjie.mall.controller;
 
-//import com.platform.annotation.SysLog;
-//import com.platform.entity.SysDeptEntity;
-////mport com.platform.service.SysDeptService;
-//import com.platform.utils.Constant;
-//import com.platform.utils.R;
-
 import com.renjie.mall.annotation.SysLog;
 import com.renjie.mall.entity.SysDeptEntity;
 import com.renjie.mall.service.SysDeptService;

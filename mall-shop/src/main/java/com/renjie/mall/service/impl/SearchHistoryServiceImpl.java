@@ -1,9 +1,5 @@
 package com.renjie.mall.service.impl;
 
-//import com.platform.entity.SearchHistoryEntity;
-
-//import com.platform.service.SearchHistoryService;
-
 import com.renjie.mall.dao.SearchHistoryDao;
 import com.renjie.mall.entity.SearchHistoryEntity;
 import com.renjie.mall.service.SearchHistoryService;

@@ -9,11 +9,6 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Map;
 
-//import com.platform.dao.FootprintDao;
-//import com.platform.entity.FootprintEntity;
-//mport com.platform.service.FootprintService;
-
-
 @Service("footprintService")
 public class FootprintServiceImpl implements FootprintService {
 	@Autowired

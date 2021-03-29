@@ -9,10 +9,6 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Map;
 
-////import com.platform.dao.AdDao;
-////import com.platform.entity.AdEntity;
-////mport com.platform.service.AdService;
-
 /**
  * Service实现类
  *

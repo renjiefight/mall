@@ -1,9 +1,5 @@
 package com.renjie.mall.service.impl;
 
-//import com.platform.dao.GoodsIssueDao;
-//import com.platform.entity.GoodsIssueEntity;
-//mport com.platform.service.GoodsIssueService;
-
 import com.renjie.mall.dao.GoodsIssueDao;
 import com.renjie.mall.entity.GoodsIssueEntity;
 import com.renjie.mall.service.GoodsIssueService;

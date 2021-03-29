@@ -1,8 +1,5 @@
 package com.renjie.mall.service;
 
-//import com.platform.dao.ApiFootprintMapper;
-//import com.platform.entity.FootprintVo;
-
 import com.renjie.mall.dao.ApiFootprintMapper;
 import com.renjie.mall.entity.FootprintVo;
 import org.springframework.beans.factory.annotation.Autowired;

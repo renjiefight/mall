@@ -1,12 +1,5 @@
 package com.renjie.mall.service.impl;
 
-//import com.platform.dao.OrderDao;
-//import com.platform.dao.ShippingDao;
-
-//import com.platform.entity.OrderEntity;
-//import com.platform.entity.ShippingEntity;
-//import com.platform.utils.RRException;
-
 import com.renjie.mall.dao.OrderDao;
 import com.renjie.mall.dao.ShippingDao;
 import com.renjie.mall.entity.OrderEntity;

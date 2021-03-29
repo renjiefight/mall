@@ -1,7 +1,5 @@
 package com.renjie.mall.dao;
 
-//import com.platform.entity.GoodsGalleryEntity;
-
 import com.renjie.mall.entity.GoodsGalleryEntity;
 
 import java.util.Map;

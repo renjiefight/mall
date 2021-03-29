@@ -1,8 +1,5 @@
 package com.renjie.mall.handler;
 
-//import com.platform.builder.TextBuilder;
-//mport com.platform.service.WeixinService;
-
 import com.renjie.mall.builder.TextBuilder;
 import com.renjie.mall.service.WeixinService;
 import me.chanjar.weixin.common.error.WxErrorException;

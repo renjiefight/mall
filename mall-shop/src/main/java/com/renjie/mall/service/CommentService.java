@@ -1,7 +1,5 @@
 package com.renjie.mall.service;
 
-//import com.platform.entity.CommentEntity;
-
 import com.renjie.mall.entity.CommentEntity;
 
 import java.util.List;

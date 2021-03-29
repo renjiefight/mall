@@ -1,9 +1,5 @@
 package com.renjie.mall.api;
 
-//import com.platform.annotation.IgnoreAuth;
-//import com.platform.annotation.LoginUser;
-//import com.platform.cache.J2CacheUtils;
-
 import com.renjie.mall.annotation.IgnoreAuth;
 import com.renjie.mall.annotation.LoginUser;
 import com.renjie.mall.cache.J2CacheUtils;

@@ -1,10 +1,5 @@
 package com.renjie.mall.oss;
 
-//import com.platform.validator.group.AliyunGroup;
-//import com.platform.validator.group.DiskGroup;
-//import com.platform.validator.group.QcloudGroup;
-//import com.platform.validator.group.QiniuGroup;
-
 import com.renjie.mall.validator.group.AliyunGroup;
 import com.renjie.mall.validator.group.DiskGroup;
 import com.renjie.mall.validator.group.QcloudGroup;

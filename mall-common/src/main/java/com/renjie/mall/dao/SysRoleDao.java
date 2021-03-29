@@ -1,8 +1,5 @@
 package com.renjie.mall.dao;
 
-////import com.platform.entity.SysRoleEntity;
-//import com.platform.entity.UserWindowDto;
-
 import com.renjie.mall.entity.SysRoleEntity;
 import com.renjie.mall.entity.UserWindowDto;
 

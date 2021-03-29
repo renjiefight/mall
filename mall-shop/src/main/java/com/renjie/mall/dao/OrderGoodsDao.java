@@ -1,7 +1,5 @@
 package com.renjie.mall.dao;
 
-//import com.platform.entity.OrderGoodsEntity;
-
 import com.renjie.mall.entity.OrderGoodsEntity;
 
 /**

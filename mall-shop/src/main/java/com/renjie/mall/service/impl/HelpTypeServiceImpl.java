@@ -1,9 +1,5 @@
 package com.renjie.mall.service.impl;
 
-//import com.platform.dao.HelpTypeDao;
-//import com.platform.entity.HelpTypeEntity;
-//mport com.platform.service.HelpTypeService;
-
 import com.renjie.mall.dao.HelpTypeDao;
 import com.renjie.mall.entity.HelpTypeEntity;
 import com.renjie.mall.service.HelpTypeService;

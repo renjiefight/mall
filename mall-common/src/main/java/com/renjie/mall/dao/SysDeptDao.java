@@ -1,8 +1,5 @@
 package com.renjie.mall.dao;
 
-//import com.platform.entity.SysDeptEntity;
-//import com.platform.entity.UserWindowDto;
-
 import com.renjie.mall.entity.SysDeptEntity;
 import com.renjie.mall.entity.UserWindowDto;
 import org.apache.ibatis.annotations.Mapper;

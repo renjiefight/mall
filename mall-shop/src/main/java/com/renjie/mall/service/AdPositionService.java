@@ -1,7 +1,5 @@
 package com.renjie.mall.service;
 
-////import com.platform.entity.AdPositionEntity;
-
 import com.renjie.mall.entity.AdPositionEntity;
 
 import java.util.List;

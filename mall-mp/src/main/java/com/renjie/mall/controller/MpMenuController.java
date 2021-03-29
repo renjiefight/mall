@@ -1,8 +1,5 @@
 package com.renjie.mall.controller;
 
-//mport com.platform.service.MpMenuService;
-//import com.platform.utils.R;
-
 import com.renjie.mall.service.MpMenuService;
 import com.renjie.mall.utils.R;
 import me.chanjar.weixin.common.api.WxConsts;

@@ -1,7 +1,5 @@
 package com.renjie.mall.dao;
 
-//import com.platform.entity.SysRoleMenuEntity;
-
 import com.renjie.mall.entity.SysRoleMenuEntity;
 
 import java.util.List;

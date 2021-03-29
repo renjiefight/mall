@@ -1,10 +1,5 @@
 package com.renjie.mall.controller;
 
-////import com.platform.entity.AttributeCategoryEntity;
-////mport com.platform.service.AttributeCategoryService;
-//import com.platform.utils.PageUtils;
-//import com.platform.utils.Query;
-//import com.platform.utils.R;
 import com.renjie.mall.utils.Query;
 import com.renjie.mall.utils.R;
 import com.renjie.mall.entity.AttributeCategoryEntity;

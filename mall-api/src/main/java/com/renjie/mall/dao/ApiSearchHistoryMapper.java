@@ -1,7 +1,5 @@
 package com.renjie.mall.dao;
 
-////import com.platform.entity.SearchHistoryVo;
-
 import com.renjie.mall.entity.SearchHistoryVo;
 import org.apache.ibatis.annotations.Param;
 
