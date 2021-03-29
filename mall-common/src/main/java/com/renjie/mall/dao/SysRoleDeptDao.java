@@ -1,7 +1,5 @@
 package com.renjie.mall.dao;
 
-//import com.platform.entity.SysRoleDeptEntity;
-
 import com.renjie.mall.entity.SysRoleDeptEntity;
 import org.apache.ibatis.annotations.Mapper;
 
