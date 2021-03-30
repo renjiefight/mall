@@ -43,3 +43,4 @@ spring:
 mybatis:
   type-aliases-package: com.platform.dao
   mapper-locations: classpath:/*Dao.xml
+  
